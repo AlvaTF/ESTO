@@ -1,0 +1,7 @@
+com\AVER\ESTO\Service\Seducacion.class
+com\AVER\ESTO\EstoApplication.class
+com\AVER\ESTO\Mensaje.class
+com\AVER\ESTO\Dto\dtoEducacion.class
+com\AVER\ESTO\Controler\CEducacion.class
+com\AVER\ESTO\Entity\Educacion.class
+com\AVER\ESTO\Repository\REducacion.class
